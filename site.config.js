@@ -39,17 +39,6 @@ module.exports = {
   // variables specified in .env.example
   
   isPreviewImageSupportEnabled: false,
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-218449954-1">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-218449954-1');
-
-</script>
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
   // example:
